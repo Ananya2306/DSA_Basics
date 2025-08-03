@@ -1,3 +1,4 @@
+#an array we initialise 
 arr = [10, 20, 30, 40, 50]
 
 # Accessing elements
